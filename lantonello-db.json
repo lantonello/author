@@ -1,6 +1,6 @@
 {
 	"author": {
-		"picture": "",
+		"picture": "https://lantonello.github.io/author/images/leandro-antonello.jpg",
 		"name": "Leandro Antonello",
 		"age": "51 anos",
 		"bio": "Leandro Antonello é apaixonado por histórias desde que se entende por gente. Entre mundos fantásticos e reflexões sobre a natureza humana, encontrou na escrita uma forma de explorar emoções, memórias e os limites entre razão e sentimento.
@@ -16,7 +16,7 @@ Atualmente, vive em Salto de Pirapora, ao lado da família.
 	},
 	"books": [
 		{
-			"cover": "",
+			"cover": "https://lantonello.github.io/author/images/o-legado-de-miravell-os-herois.jpg",
 			"title": "O Legado de Miravell",
 			"subtitle": "Os Heróis",
 			"volume": 1,
@@ -51,7 +51,7 @@ Uma nova saga começa aqui.",
 			"physical_version": ""
 		},
 		{
-			"cover": "",
+			"cover": "https://lantonello.github.io/author/images/humanos-demais.jpg",
 			"title": "Humanos Demais",
 			"volume": 1,
 			"pages": 395,
@@ -82,7 +82,7 @@ Humanos Demais é uma história sobre escolhas, sacrifícios e o que realmente n
 			"physical_version": ""
 		},
 		{
-			"cover": "",
+			"cover": "https://lantonello.github.io/author/images/antes-de-partir.png",
 			"title": "Antes de Partir",
 			"volume": 1,
 			"pages": 48,
