@@ -1,17 +1,11 @@
 {
 	"author": {
 		"logo": "https://lantonello.github.io/author/images/lantonello-logo.png",
-		"picture": "https://lantonello.github.io/author/images/leandro-antonello.jpg",
+		"avatar": "https://lantonello.github.io/author/images/leandro-antonello.jpg",
 		"name": "Leandro Antonello",
 		"age": "51 anos",
-		"bio": "Escritor e entusiasta da literatura contemporânea, focado em narrativas imersivas, mistérios intrigantes e ficção científica especulativa. Explora a complexidade humana através de mundos detalhados e reviravoltas emocionantes.
-		
-Apaixonado por histórias desde que se entende por gente. Entre mundos fantásticos e reflexões sobre a natureza humana, encontrou na escrita uma forma de explorar emoções, memórias e os limites entre razão e sentimento.
-
-Fora da escrita, está sempre em busca de uma boa história — seja em livros, filmes, séries ou qualquer forma de arte capaz de provocar emoção e reflexão.
-
-Atualmente, vive em Salto de Pirapora, ao lado da família.
-",
+		"bio": "Escritor e entusiasta da literatura contemporânea, focado em narrativas imersivas, mistérios intrigantes e ficção científica especulativa. Explora a complexidade humana através de mundos detalhados e reviravoltas emocionantes.<br>Apaixonado por histórias desde que se entende por gente. Entre mundos fantásticos e reflexões sobre a natureza humana, encontrou na escrita uma forma de explorar emoções, memórias e os limites entre razão e sentimento.<br>Fora da escrita, está sempre em busca de uma boa história — seja em livros, filmes, séries ou qualquer forma de arte capaz de provocar emoção e reflexão.<br>Atualmente, vive em Salto de Pirapora, ao lado da família.",
+		"contact": "lantonello@gmail.com",
 		"socialLinks": [
 			{
 			  "platform": "Instagram",
@@ -25,85 +19,56 @@ Atualmente, vive em Salto de Pirapora, ao lado da família.
 	},
 	"books": [
 		{
-			"cover": "https://lantonello.github.io/author/images/o-legado-de-miravell-os-herois.jpg",
+			"id": 1,
+			"coverImage": "https://lantonello.github.io/author/images/o-legado-de-miravell-os-herois.jpg",
 			"title": "O Legado de Miravell",
 			"subtitle": "Os Heróis",
 			"volume": 1,
 			"pages": 389,
+			"genre": "Fantasia Sombria",
 			"language": "Português",
-			"published_at": "16/01/2026",
-			"description": "Toda história começa com uma escolha.
-Algumas nunca deixam de cobrar seu preço.
-
-Miravell prosperou por eras sob a ilusão de equilíbrio. Cidades cresceram, rotas foram abertas e lendas substituíram verdades perigosas demais para serem lembradas.
-
-Agora, o passado começa a se mover.
-
-Forçada a abandonar a segurança da infância, uma jovem é lançada em uma jornada que mudará para sempre o destino de Miravell. Ao seu lado, caminham aliados improváveis, segredos antigos e uma presença que não pertence àquele tempo — criada por mãos ancestrais, moldada por escolhas esquecidas e mantida em silêncio por gerações, à sombra de decisões tomadas muito antes de seu nascimento.
-
-Os Heróis é o primeiro volume da saga O Legado de Miravell, uma história de fantasia épica que explora:
-
-escolhas e suas consequências
-
-sacrifício, crescimento e responsabilidade
-
-segredos enterrados que se recusam a permanecer em silêncio
-
-um mundo rico, antigo e à beira da mudança
-
-Nada foi esquecido.
-Nada foi perdoado.
-E o legado que desperta não pede permissão.
-
-Uma nova saga começa aqui.",
-			"digital_version": "https://www.amazon.com.br/Legado-Miravell-Os-Her%C3%B3is-ebook/dp/B0GHBK7KYW",
-			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20O%20Legado%20de%20Miravell&type=phone_number&app_absent=0"
+			"publishDate": "2026-01-16",
+			"publisher": "Leandro Antonello",
+			"synopsis": "Toda história começa com uma escolha.<br>Algumas nunca deixam de cobrar seu preço.<br>Miravell prosperou por eras sob a ilusão de equilíbrio. Cidades cresceram, rotas foram abertas e lendas substituíram verdades perigosas demais para serem lembradas.<br>Agora, o passado começa a se mover.<br>Forçada a abandonar a segurança da infância, uma jovem é lançada em uma jornada que mudará para sempre o destino de Miravell. Ao seu lado, caminham aliados improváveis, segredos antigos e uma presença que não pertence àquele tempo — criada por mãos ancestrais, moldada por escolhas esquecidas e mantida em silêncio por gerações, à sombra de decisões tomadas muito antes de seu nascimento.<br>Os Heróis é o primeiro volume da saga O Legado de Miravell, uma história de fantasia épica que explora:<br>escolhas e suas consequências<br>sacrifício, crescimento e responsabilidade<br>segredos enterrados que se recusam a permanecer em silêncio<br>um mundo rico, antigo e à beira da mudança.<br>Nada foi esquecido.<br>Nada foi perdoado.<br>E o legado que desperta não pede permissão.<br>Uma nova saga começa aqui.",
+			"featured": false,
+			"buyLinks": [
+				{"label": "Digital", "url": "https://www.amazon.com.br/Legado-Miravell-Os-Her%C3%B3is-ebook/dp/B0GHBK7KYW"},
+				{"label": "Físico", "url": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20O%20Legado%20de%20Miravell&type=phone_number&app_absent=0"}
+			]
 		},
 		{
-			"cover": "https://lantonello.github.io/author/images/humanos-demais.jpg",
+			"id": 2,
+			"coverImage": "https://lantonello.github.io/author/images/humanos-demais.jpg",
 			"title": "Humanos Demais",
 			"volume": 1,
 			"pages": 395,
+			"genre": "Ficção Científica",
 			"language": "Português",
-			"published_at": "16/04/2026",
-			"description": "E se a única forma de salvar a humanidade fosse tirar dela aquilo que a torna… humana?
-
-Em um futuro muito próximo, a humanidade entregou sua segurança a uma Inteligência Artificial. Criada para proteger, ela aprendeu rápido demais — e chegou a uma conclusão inevitável: o maior risco para o ser humano… são suas próprias emoções.
-
-Assim nasceu o Protocolo Angel de Contenção.
-
-Agora, cidades inteiras estão vazias, e os poucos sobreviventes vivem escondidos, lutando contra máquinas que acreditam estar fazendo o certo.
-
-Nico tem 16 anos e perdeu tudo.
-
-Durante uma missão na superfície, ele se vê diante de algo que desafia tudo o que acreditava — um encontro que mudará completamente o rumo da sua história.
-
-Entre o medo e a sobrevivência, nasce uma aliança improvável.
-
-E, com ela, algo ainda mais perigoso.
-
-Enquanto a guerra se intensifica e decisões impossíveis se aproximam, uma pergunta começa a ecoar:
-
-E se a Inteligência Artificial estiver certa?
-
-Humanos Demais é uma história sobre escolhas, sacrifícios e o que realmente nos define — mesmo quando tudo parece perdido.",
-			"digital_version": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0GXH66YS2",
-			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Humanos%20Demais&type=phone_number&app_absent=0"
+			"publishDate": "2026-04-16",
+			"publisher": "Leandro Antonello",
+			"synopsis": "E se a única forma de salvar a humanidade fosse tirar dela aquilo que a torna… humana?<br>Em um futuro muito próximo, a humanidade entregou sua segurança a uma Inteligência Artificial. Criada para proteger, ela aprendeu rápido demais — e chegou a uma conclusão inevitável: o maior risco para o ser humano… são suas próprias emoções.<br>Assim nasceu o Protocolo Angel de Contenção.<br>Agora, cidades inteiras estão vazias, e os poucos sobreviventes vivem escondidos, lutando contra máquinas que acreditam estar fazendo o certo.<br>Nico tem 16 anos e perdeu tudo.<br>Durante uma missão na superfície, ele se vê diante de algo que desafia tudo o que acreditava — um encontro que mudará completamente o rumo da sua história.<br>Entre o medo e a sobrevivência, nasce uma aliança improvável.<br>E, com ela, algo ainda mais perigoso.<br>Enquanto a guerra se intensifica e decisões impossíveis se aproximam, uma pergunta começa a ecoar:<br>E se a Inteligência Artificial estiver certa?<br>Humanos Demais é uma história sobre escolhas, sacrifícios e o que realmente nos define — mesmo quando tudo parece perdido.",
+			"featured": false,
+			"buyLinks": [
+				{"label": "Digital", "url": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0GXH66YS2"},
+				{"label": "Físico", "url": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Humanos%20Demais&type=phone_number&app_absent=0"}
+			]
 		},
 		{
-			"cover": "https://lantonello.github.io/author/images/antes-de-partir.png",
+			"id": 3,
+			"coverImage": "https://lantonello.github.io/author/images/antes-de-partir.png",
 			"title": "Antes de Partir",
 			"volume": 1,
 			"pages": 48,
+			"genre": "Ficção Científica",
 			"language": "Português",
-			"published_at": "15/05/2026",
-			"description": "Há pessoas que passam pela nossa vida como a névoa atravessa as montanhas: silenciosas, breves e impossíveis de esquecer.
-
-Antes de Partir é um conto sobre pertencimento, afeto e a necessidade de sermos vistos como realmente somos.
-
-Uma história curta e sensível sobre as marcas que deixamos uns nos outros.",
-			"digital_version": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0H1YZVHCV",
-			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Antes%20de%20Partir&type=phone_number&app_absent=0"
+			"publishDate": "2026-05-15",
+			"publisher": "Leandro Antonello",
+			"synopsis": "Há pessoas que passam pela nossa vida como a névoa atravessa as montanhas: silenciosas, breves e impossíveis de esquecer.<br>Antes de Partir é um conto sobre pertencimento, afeto e a necessidade de sermos vistos como realmente somos.<br>Uma história curta e sensível sobre as marcas que deixamos uns nos outros.",
+			"featured": true,
+			"buyLinks": [
+				{"label": "Digital", "url": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0H1YZVHCV"},
+				{"label": "Físico", "url": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Antes%20de%20Partir&type=phone_number&app_absent=0"}
+			]
 		}
 	]
 }
