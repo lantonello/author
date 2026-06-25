@@ -3,16 +3,24 @@
 		"picture": "https://lantonello.github.io/author/images/leandro-antonello.jpg",
 		"name": "Leandro Antonello",
 		"age": "51 anos",
-		"bio": "Leandro Antonello é apaixonado por histórias desde que se entende por gente. Entre mundos fantásticos e reflexões sobre a natureza humana, encontrou na escrita uma forma de explorar emoções, memórias e os limites entre razão e sentimento.
-
-Autor de Os Heróis, obra que marca sua estreia na literatura e dá início à saga O Legado de Miravell, também escreveu Humanos Demais, onde aprofunda questionamentos sobre identidade, consciência e o que realmente nos torna humanos.
-
-Em Antes de Partir, apresenta uma narrativa mais íntima e sensível sobre pertencimento, afeto e a necessidade de sermos vistos como realmente somos.
+		"bio": "Escritor e entusiasta da literatura contemporânea, focado em narrativas imersivas, mistérios intrigantes e ficção científica especulativa. Explora a complexidade humana através de mundos detalhados e reviravoltas emocionantes.
+		
+Apaixonado por histórias desde que se entende por gente. Entre mundos fantásticos e reflexões sobre a natureza humana, encontrou na escrita uma forma de explorar emoções, memórias e os limites entre razão e sentimento.
 
 Fora da escrita, está sempre em busca de uma boa história — seja em livros, filmes, séries ou qualquer forma de arte capaz de provocar emoção e reflexão.
 
 Atualmente, vive em Salto de Pirapora, ao lado da família.
-"
+",
+		"socialLinks": [
+			{
+			  "platform": "Instagram",
+			  "url": "https://www.instagram.com/leantonello/"
+			}
+			{
+			  "platform": "GitHub",
+			  "url": "https://github.com/lantonello"
+			}
+		]
 	},
 	"books": [
 		{
@@ -48,7 +56,7 @@ E o legado que desperta não pede permissão.
 
 Uma nova saga começa aqui.",
 			"digital_version": "https://www.amazon.com.br/Legado-Miravell-Os-Her%C3%B3is-ebook/dp/B0GHBK7KYW",
-			"physical_version": ""
+			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20O%20Legado%20de%20Miravell&type=phone_number&app_absent=0"
 		},
 		{
 			"cover": "https://lantonello.github.io/author/images/humanos-demais.jpg",
@@ -79,7 +87,7 @@ E se a Inteligência Artificial estiver certa?
 
 Humanos Demais é uma história sobre escolhas, sacrifícios e o que realmente nos define — mesmo quando tudo parece perdido.",
 			"digital_version": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0GXH66YS2",
-			"physical_version": ""
+			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Humanos%20Demais&type=phone_number&app_absent=0"
 		},
 		{
 			"cover": "https://lantonello.github.io/author/images/antes-de-partir.png",
@@ -94,7 +102,7 @@ Antes de Partir é um conto sobre pertencimento, afeto e a necessidade de sermos
 
 Uma história curta e sensível sobre as marcas que deixamos uns nos outros.",
 			"digital_version": "https://www.amazon.com.br/Antes-Partir-Leandro-Antonello-ebook/dp/B0H1YZVHCV",
-			"physical_version": ""
+			"physical_version": "https://api.whatsapp.com/send/?phone=5511994008090&text=Gostaria%20de%20saber%20mais%20sobre%20como%20encomendar%20uma%20c%C3%B3pia%20f%C3%ADsica%20do%20livro%20Antes%20de%20Partir&type=phone_number&app_absent=0"
 		}
 	]
 }
