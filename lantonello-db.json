@@ -35,7 +35,8 @@
 			"featured": false,
 			"buyLinks": [
 				{"label": "Amazon", "url": "https://www.amazon.com.br/dp/B0GHBK7KYW"}
-			]
+			],
+			"printedPrice": "R$ 69,90"
 		},
 		{
 			"id": 2,
@@ -51,7 +52,8 @@
 			"featured": false,
 			"buyLinks": [
 				{"label": "Amazon", "url": "https://www.amazon.com.br/dp/B0GXH66YS2"}
-			]
+			],
+			"printedPrice": "R$ 89,90"
 		},
 		{
 			"id": 3,
@@ -67,7 +69,8 @@
 			"featured": true,
 			"buyLinks": [
 				{"label": "Amazon", "url": "https://www.amazon.com.br/dp/B0H1YZVHCV"}
-			]
+			],
+			"printedPrice": "R$ 49,90"
 		}
 	]
 }
